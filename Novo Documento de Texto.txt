@@ -1,0 +1,2 @@
+conda activate projeto_visao
+python detectar.py
